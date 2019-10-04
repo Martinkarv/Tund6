@@ -1,0 +1,11 @@
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\bin\Debug\netcoreapp3.0\Tund6 teine äpp.exe
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\bin\Debug\netcoreapp3.0\Tund6 teine äpp.deps.json
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\bin\Debug\netcoreapp3.0\Tund6 teine äpp.runtimeconfig.json
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\bin\Debug\netcoreapp3.0\Tund6 teine äpp.runtimeconfig.dev.json
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\bin\Debug\netcoreapp3.0\Tund6 teine äpp.dll
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\bin\Debug\netcoreapp3.0\Tund6 teine äpp.pdb
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\obj\Debug\netcoreapp3.0\Tund6 teine äpp.csprojAssemblyReference.cache
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\obj\Debug\netcoreapp3.0\Tund6 teine äpp.AssemblyInfoInputs.cache
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\obj\Debug\netcoreapp3.0\Tund6 teine äpp.AssemblyInfo.cs
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\obj\Debug\netcoreapp3.0\Tund6 teine äpp.dll
+C:\Users\karvm\Desktop\Tund6\Tund6 teine äpp\obj\Debug\netcoreapp3.0\Tund6 teine äpp.pdb

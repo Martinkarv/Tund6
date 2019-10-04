@@ -1,0 +1,11 @@
+C:\Users\karvm\Desktop\Tund6\BeerSong\bin\Debug\netcoreapp3.0\BeerSong.exe
+C:\Users\karvm\Desktop\Tund6\BeerSong\bin\Debug\netcoreapp3.0\BeerSong.deps.json
+C:\Users\karvm\Desktop\Tund6\BeerSong\bin\Debug\netcoreapp3.0\BeerSong.runtimeconfig.json
+C:\Users\karvm\Desktop\Tund6\BeerSong\bin\Debug\netcoreapp3.0\BeerSong.runtimeconfig.dev.json
+C:\Users\karvm\Desktop\Tund6\BeerSong\bin\Debug\netcoreapp3.0\BeerSong.dll
+C:\Users\karvm\Desktop\Tund6\BeerSong\bin\Debug\netcoreapp3.0\BeerSong.pdb
+C:\Users\karvm\Desktop\Tund6\BeerSong\obj\Debug\netcoreapp3.0\BeerSong.csprojAssemblyReference.cache
+C:\Users\karvm\Desktop\Tund6\BeerSong\obj\Debug\netcoreapp3.0\BeerSong.AssemblyInfoInputs.cache
+C:\Users\karvm\Desktop\Tund6\BeerSong\obj\Debug\netcoreapp3.0\BeerSong.AssemblyInfo.cs
+C:\Users\karvm\Desktop\Tund6\BeerSong\obj\Debug\netcoreapp3.0\BeerSong.dll
+C:\Users\karvm\Desktop\Tund6\BeerSong\obj\Debug\netcoreapp3.0\BeerSong.pdb

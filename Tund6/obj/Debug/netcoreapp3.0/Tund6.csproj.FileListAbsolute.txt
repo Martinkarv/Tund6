@@ -1,0 +1,11 @@
+C:\Users\karvm\Desktop\Tund6\Tund6\bin\Debug\netcoreapp3.0\Tund6.exe
+C:\Users\karvm\Desktop\Tund6\Tund6\bin\Debug\netcoreapp3.0\Tund6.deps.json
+C:\Users\karvm\Desktop\Tund6\Tund6\bin\Debug\netcoreapp3.0\Tund6.runtimeconfig.json
+C:\Users\karvm\Desktop\Tund6\Tund6\bin\Debug\netcoreapp3.0\Tund6.runtimeconfig.dev.json
+C:\Users\karvm\Desktop\Tund6\Tund6\bin\Debug\netcoreapp3.0\Tund6.dll
+C:\Users\karvm\Desktop\Tund6\Tund6\bin\Debug\netcoreapp3.0\Tund6.pdb
+C:\Users\karvm\Desktop\Tund6\Tund6\obj\Debug\netcoreapp3.0\Tund6.csprojAssemblyReference.cache
+C:\Users\karvm\Desktop\Tund6\Tund6\obj\Debug\netcoreapp3.0\Tund6.AssemblyInfoInputs.cache
+C:\Users\karvm\Desktop\Tund6\Tund6\obj\Debug\netcoreapp3.0\Tund6.AssemblyInfo.cs
+C:\Users\karvm\Desktop\Tund6\Tund6\obj\Debug\netcoreapp3.0\Tund6.dll
+C:\Users\karvm\Desktop\Tund6\Tund6\obj\Debug\netcoreapp3.0\Tund6.pdb
